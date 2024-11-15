@@ -3,18 +3,18 @@ Here is a list of all search operators I know about. The list will be updated if
 
 ‎<br />
 
-# Content
-[Basic search operators](#basic-search-operators)  
-[Number/time related search operators](#numbertime-related-search-operators)  
-[URL/website search operators](#urlwebsite-search-operators)  
-[Data/datatype search operators](#datadatatypes-search-operators)  
-[Money/crypto related search operators](#moneycrypto-related-search-operators)  
-[Other search operators](#other-search-operators)  
+## Content
+Basic search operators 
+Number / time related search operators
+URL / website search operators
+Data / datatype search operators
+Money / crypto related search operators
+Other search operators
 
 <br />
 <br />
 
-# Basic search operators 
+## Basic search operators 
 The most basic search operators that also gets used the most.
 
 | Search Operator       | Explanation           | Example               | Reliable?             |
@@ -28,7 +28,9 @@ The most basic search operators that also gets used the most.
 | ( ) | Group multiple searches | (Javascript OR python) calculator | Yes |
 | _ | Acts as an autocomplete / acts as a wildcard | Newest _ commands | Depends |
 
-# Number/time related search operators
+<br />
+
+## Number / time related search operators
 Search operators that fall into the category of numbers typically deal with querying, filtering, or comparing numerical data.
 
 | Search Operator       | Explanation           | Example               | Reliable?             |
@@ -41,7 +43,9 @@ Search operators that fall into the category of numbers typically deal with quer
 | after: | Searching for results from after a particular date | Javascript versions after:2015 | Yes |
 | before: | Searching for results from before a particular date | Javascript versions before:2015 | Yes |
 
-# URL/website search operators
+<br />
+
+## URL / website search operators
 Search operators that are related to URL's / websites.
 
 | Search Operator       | Explanation           | Example               | Reliable?             |
@@ -56,7 +60,9 @@ Search operators that are related to URL's / websites.
 | site: | Searches for results from only a particular website | site:javascript.com | Yes |
 | related: | Searches for sites related to a specific domain | related:javascript.com | Yes |
 
-# Data/datatype search operators
+<br />
+
+## Data / datatype search operators
 Search operators that are related to data / datatypes.
 
 | Search Operator       | Explanation           | Example               | Reliable?             |
@@ -67,7 +73,9 @@ Search operators that are related to data / datatypes.
 | source: | Search for results from a particular source in google news | source:javascript.com | Yes |
 | cache: | Find the most recent cache of a website | cache:javascript.com | No |
 
-# Money/crypto related search operators
+<br />
+
+## Money / crypto related search operators
 Search operators that are related to money / crypto.
 
 | Search Operator       | Explanation           | Example               | Reliable?             |
@@ -75,7 +83,9 @@ Search operators that are related to money / crypto.
 | stocks: | Searches for stock information | stock:bitcoin | Yes |
 | in | Convert one unit to another | $25 in GBP | Yes |
 
-# Other search operators
+<br />
+
+## Other search operators
 Here are some other search operators that are mostly useless.
 
 | Search Operator       | Explanation           | Example               | Reliable?             |
@@ -83,3 +93,7 @@ Here are some other search operators that are mostly useless.
 | weather: | Searches for the weather in a location | weather:california | Yes |
 | movie: | Searches for information about a movie | movie:the history if javascript | Yes |
 | map: | Shows map results | map:javascript house | Yes |
+
+<br />
+<br />
+made by frswag
