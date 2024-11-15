@@ -4,7 +4,7 @@ Here is a list of all search operators I know about. The list will be updated if
 ‎<br />
 
 # Content
-[Basic search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#basic-search-operators)  
+[Basic search operators](#basic-search-operators)  
 [Number / time related search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#number--time-related-search-operators)  
 [URL / website search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#url--website-search-operators)  
 [Data / datatype search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#data--datatype-search-operators)  
