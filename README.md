@@ -5,11 +5,11 @@ Here is a list of all search operators I know about. The list will be updated if
 
 # Content
 [Basic search operators](#basic-search-operators)  
-[Number / time related search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#number--time-related-search-operators)  
-[URL / website search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#url--website-search-operators)  
-[Data / datatype search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#data--datatype-search-operators)  
-[Money / crypto related search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#money--crypto-related-search-operators)  
-[Other search operators](https://github.com/frswag/Search-Operator-List/edit/main/README.md#other-search-operators)  
+[Number / time related search operators](#number-/-time-related-search-operators)  
+[URL / website search operators](#url/website-search-operators)  
+[Data / datatype search operators](#data-/-datatypes-search-operators)  
+[Money / crypto related search operators](#money-/-crypto-related-search-operators)  
+[Other search operators](#other-search-operators)  
 
 <br />
 <br />
