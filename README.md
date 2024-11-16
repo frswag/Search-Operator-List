@@ -3,13 +3,13 @@ Here is a list of all search operators I know about. The list will be updated if
 
 ‎<br />
 
-## Content
-Basic search operators 
-Number / time related search operators
-URL / website search operators
-Data / datatype search operators
-Money / crypto related search operators
-Other search operators
+## Content  
+Basic search operators   
+Number / time related search operators  
+URL / website search operators  
+Data / datatype search operators  
+Money / crypto related search operators  
+Other search operators  
 
 <br />
 <br />
